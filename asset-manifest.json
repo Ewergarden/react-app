@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Ewergarden/react-app.git/static/css/main.9ab94ead.chunk.css",
-    "main.js": "/Ewergarden/react-app.git/static/js/main.56798f6a.chunk.js",
-    "main.js.map": "/Ewergarden/react-app.git/static/js/main.56798f6a.chunk.js.map",
+    "main.js": "/Ewergarden/react-app.git/static/js/main.f3317c8e.chunk.js",
+    "main.js.map": "/Ewergarden/react-app.git/static/js/main.f3317c8e.chunk.js.map",
     "runtime-main.js": "/Ewergarden/react-app.git/static/js/runtime-main.65639ef1.js",
     "runtime-main.js.map": "/Ewergarden/react-app.git/static/js/runtime-main.65639ef1.js.map",
     "static/js/2.f6f7dbad.chunk.js": "/Ewergarden/react-app.git/static/js/2.f6f7dbad.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.65639ef1.js",
     "static/js/2.f6f7dbad.chunk.js",
     "static/css/main.9ab94ead.chunk.css",
-    "static/js/main.56798f6a.chunk.js"
+    "static/js/main.f3317c8e.chunk.js"
   ]
 }
